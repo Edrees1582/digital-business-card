@@ -3,3 +3,9 @@
 Based on React Course - Beginner's Tutorial for React JavaScript Library [2022] on YouTube by Bob Ziroll, Head of Education at Scrimba.
 
 [link to the course on youtube](https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org)
+
+## About
+
+![screenshot of the project](https://prnt.sc/Sgf8nID9bS38)
+
+This is just a simple static site build with react.
