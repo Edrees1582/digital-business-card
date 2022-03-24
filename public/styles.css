@@ -1,0 +1,161 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Inter, sans-serif;
+}
+
+.body {
+    background-color: #23252C;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.pic {
+    width: 317px;
+    height: 317px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.main {
+    background-color: #1A1B21;
+    width: 317px;
+    height: 399px;
+    padding-top: 21px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.name {
+    color: #fff;
+    font-size: 25px;
+    margin-bottom: 6.19px;
+}
+
+.spec {
+    color: #F3BF99;
+    font-size: 12.8px;
+    font-weight: 400;
+    margin-bottom: 8.81px;
+}
+
+.website {
+    color: #F5F5F5;
+    font-size: 10.24px;
+    font-weight: 400;
+}
+
+.buttons {
+    margin-top: 30px;
+}
+
+.email {
+    padding: 9px 30px;
+    margin-right: 17px;
+    border: none;
+    border-radius: 6px;
+    color: #374151;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: #fff;
+    transition: background-color 0.2s;
+}
+
+.email:hover {
+    background-color: #DCDCDC;
+    cursor: pointer;
+}
+
+.linkedIn {
+    padding: 9px 22px;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    background-color: #5093E2;
+    transition: background-color 0.2s;
+}
+
+.linkedIn:hover {
+    background-color: #3c72af;
+    cursor: pointer;
+}
+
+.about {
+    padding: 33px 36px 15px;
+}
+
+.about .m {
+    color: #429E4B;
+    transition: 0.2s;
+}
+
+.about .m:hover,
+.about .e:hover,
+.about .r:hover,
+.about .n:hover {
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.about .e {
+    color: #CD7B70;
+    transition: font-size 0.2s;
+}
+
+.about .r {
+    color: #61DBFB;
+    transition: font-size 0.2s;
+}
+
+.about .n {
+    color: #9ABE50;
+    transition: font-size 0.2s;
+}
+
+.interests {
+    padding: 0 36px;
+}
+
+.h4-about,
+.h4-interests {
+    color: #F5F5F5;
+    margin-bottom: 5px;
+}
+
+.p-about,
+.p-interests {
+    color: #DCDCDC;
+    font-size: 10.24px;
+    line-height: 1.5em;
+}
+
+.socials {
+    background-color: #161619;
+    width: 317px;
+    height: 64px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+.socials i {
+    font-size: 25px;
+    color: #918E9B;
+}
