@@ -6,6 +6,6 @@ Based on React Course - Beginner's Tutorial for React JavaScript Library [2022] 
 
 ## About
 
-![screenshot of the project](https://prnt.sc/Sgf8nID9bS38)
+![screenshot of the project](https://i.ibb.co/WtTGnsS/Screenshot-1.png)
 
 This is just a simple static site build with react.
