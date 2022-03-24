@@ -1,4 +1,4 @@
-# First mini-project using react
+# First mini-project using react, also my first repository
 
 Based on React Course - Beginner's Tutorial for React JavaScript Library [2022] on YouTube by Bob Ziroll, Head of Education at Scrimba.
 
